@@ -1,2 +1,2 @@
 # diagram
-ioisys-Diagram
+ioisys
