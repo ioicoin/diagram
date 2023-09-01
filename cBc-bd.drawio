@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:00:54.667Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="RuHRD_j0iwH4Nhpk7bdq" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:02:06.055Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="nY9drK9HUrg95U_jQJS6" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="822" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -175,6 +175,9 @@
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-8" value="currancy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
           <mxGeometry x="346" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-9" value="BNB Token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
+          <mxGeometry x="225" y="199" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
