@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:32:52.625Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="RqGwu1THY5BPcd-ALNpL" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:34:04.777Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="tVwUmwnF84dRCekmR8Zt" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
-    <mxGraphModel dx="681" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
         <mxCell id="bpX-akEFkFAYFT1dOsdR-11" value="&lt;font color=&quot;#00ff00&quot;&gt;currancy&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
           <mxGeometry x="66" y="116" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-12" value="&lt;b&gt;cBc&lt;/b&gt;&lt;br&gt;&quot; Money in your Ai Wallet &quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-12" value="&lt;b&gt;cBc&lt;/b&gt;&lt;br&gt;&quot; Money in your Wallet &quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="103" width="89.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-13" value="cBc-BigDraw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
