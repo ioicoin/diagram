@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:14:48.691Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="smqeumj51Epcn1fVC7pj" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:16:35.269Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="oQi8DkgpHcZjb9M7hlJY" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
-    <mxGraphModel dx="822" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,17 +140,20 @@
         <mxCell id="mvALGWr-T-3bCyHva3as-11" value="Blue Line Horizontal $ 1 ioi stabile Meter by cBc tied to USD today,.." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479" y="480" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="R2QgoeFWOkfdTr1HwpYz-10" edge="1">
+        <mxCell id="mvALGWr-T-3bCyHva3as-14" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="440" as="sourcePoint" />
-            <mxPoint x="580" y="360" as="targetPoint" />
+            <mxPoint x="478" y="360" as="sourcePoint" />
+            <mxPoint x="558" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="360" />
+              <mxPoint x="528" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvALGWr-T-3bCyHva3as-15" target="R2QgoeFWOkfdTr1HwpYz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-15" value="&lt;div&gt;* NFT trade Market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Trade NFT Fisickly and Digital Asset by Ai Aprovment.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="300" width="247" height="90" as="geometry" />
+          <mxGeometry x="558" y="300" width="247" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-1" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="400" width="60" height="30" as="geometry" />
