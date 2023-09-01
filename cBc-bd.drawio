@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:44:07.068Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="7pUAkjr6GSCo-qhqzO_c" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:48:00.596Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="sKfrZSMyo1SZCFQZmFMR" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="993" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-15" value="&lt;div&gt;* NFT trade Market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Trade NFT Fisickly and Digital Asset by Ai Aprovment.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="558" y="300" width="247" height="90" as="geometry" />
+          <mxGeometry x="558" y="274" width="247" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-1" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="400" width="60" height="30" as="geometry" />
@@ -198,13 +198,22 @@
           <mxGeometry width="140" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-17" value="Stibilize your contract , stemp , Price, digital non digital asset, to day save&amp;nbsp; for tomorrow&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="511" y="191" width="211.5" height="136" as="geometry" />
+          <mxGeometry x="511" y="193" width="211.5" height="136" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpX-akEFkFAYFT1dOsdR-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="420" as="sourcePoint" />
             <mxPoint x="510" y="255" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="360" as="sourcePoint" />
+            <mxPoint x="558" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-23" value="Tred base on Digital Billioum Meter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC00CC;" vertex="1" parent="1">
+          <mxGeometry x="472" y="381" width="211" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
