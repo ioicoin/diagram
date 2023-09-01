@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T14:36:21.316Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="ybp-Ltb_Yntv40irfRVi" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T14:45:17.598Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="LVkuR7jM47iRg9mZbLpS" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
-    <mxGraphModel dx="822" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bpX-akEFkFAYFT1dOsdR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#051EFF;strokeColor=#3700CC;fontColor=#ffffff;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="350" y="207" width="48" height="193" as="geometry" />
+          <mxGeometry x="351" y="207" width="48" height="193" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="150" y="370" width="49" height="83" as="geometry" />
@@ -112,9 +112,6 @@
         <mxCell id="mvALGWr-T-3bCyHva3as-3" value="&lt;div&gt;iOi.coin - stabile coin, by Ai wallet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* in &amp;amp; out&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* spot - swap - to iOi.coin&lt;/div&gt;&lt;div&gt;* exept stbile coin, USDT, BUSD, USDC&lt;/div&gt;&lt;div&gt;* Btc and coinstock (cost)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="587" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#00CCCC;strokeColor=#3700CC;fontColor=#ffffff;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="350" y="240" width="48" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-5" value="ioi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="354" y="184" width="40" height="30" as="geometry" />
         </mxCell>
@@ -179,9 +176,6 @@
         <mxCell id="bpX-akEFkFAYFT1dOsdR-7" value="NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="424" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-8" value="currancy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
-          <mxGeometry x="345" y="202" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-9" value="BNB Token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="225" y="203" width="60" height="30" as="geometry" />
         </mxCell>
@@ -230,20 +224,14 @@
             <mxPoint x="309" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-29" value="saving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
-          <mxGeometry x="346" y="377" width="60" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#00FF00;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="370" as="sourcePoint" />
-            <mxPoint x="375" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="315" as="sourcePoint" />
             <mxPoint x="550" y="315" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#051EFF;strokeColor=#3700CC;fontColor=#ffffff;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="375" y="207" width="24" height="193" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-33" value="Bank Note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="425" y="262" width="60" height="30" as="geometry" />
@@ -253,6 +241,9 @@
             <mxPoint x="400" y="315" as="sourcePoint" />
             <mxPoint x="430" y="315" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mvALGWr-T-3bCyHva3as-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#00CCCC;strokeColor=#3700CC;fontColor=#ffffff;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="351" y="240" width="48" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -265,6 +256,18 @@
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-39" value="ensure your product price today for the future.." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="357" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="370" as="sourcePoint" />
+            <mxPoint x="375" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-29" value="saving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
+          <mxGeometry x="346" y="377" width="60" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-8" value="currancy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=8;fontColor=#0FDEF5;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
