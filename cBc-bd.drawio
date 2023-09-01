@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:17:46.201Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="-mdRUnH6a4cqP2cXA1dO" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:32:27.716Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="rIN1tYPS8i6kHdydhDQ9" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="681" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="49" height="83" as="geometry" />
+        </mxCell>
         <mxCell id="R2QgoeFWOkfdTr1HwpYz-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FF66FF;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="430" y="237" width="49" height="164" as="geometry" />
         </mxCell>
@@ -19,7 +22,7 @@
             <mxPoint x="315" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R2QgoeFWOkfdTr1HwpYz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;fillColor=#a0522d;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="R2QgoeFWOkfdTr1HwpYz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;fillColor=#a0522d;fontColor=#ffffff;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="150" y="300" width="49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R2QgoeFWOkfdTr1HwpYz-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#007FFF;" parent="1" edge="1">
@@ -100,8 +103,8 @@
         <mxCell id="mvALGWr-T-3bCyHva3as-1" value="* BitCoin Market Capital" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="530" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-2" value="&lt;div&gt;* coinstock.cost,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as stock available in market.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* sale and buy in Binance Market.&lt;/div&gt;&lt;div&gt;* ioi suport.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="123" y="611" width="200" height="70" as="geometry" />
+        <mxCell id="mvALGWr-T-3bCyHva3as-2" value="&lt;div&gt;* coinstock.cost,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as stock available in market.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Digital Silver n EchoSytem.&lt;/div&gt;&lt;div&gt;* sale and buy in Binance Market.&lt;/div&gt;&lt;div&gt;* ioi suport.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="123" y="601" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-3" value="&lt;div&gt;iOi.coin,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* in &amp;amp; out&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* spot - swap - to iOi.coin&lt;/div&gt;&lt;div&gt;* exept stbile coin, USDT, BUSD, USDC&lt;/div&gt;&lt;div&gt;* Btc and coinstock (cost)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="587" width="320" height="150" as="geometry" />
