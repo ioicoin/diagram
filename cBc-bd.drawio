@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T06:19:21.834Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="icZ0opRDJk3ovx0FfMhj" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T12:46:41.073Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="HTeUz-wJGQkGngJoDLDi" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="1192" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
             <mxPoint x="175" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-7" value="Billioum ( BoM ),&lt;br&gt;diGital meter.&lt;br&gt;(Total Wallet can be downgraded, by reducing the number of tokens in the wallet to another wallet at the team&#39;s discretion.)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="175.5" y="487" width="220" height="94" as="geometry" />
+        <mxCell id="mvALGWr-T-3bCyHva3as-7" value="Billioum ( BoM ),&lt;br&gt;diGital meter.&lt;br&gt;(Total Wallet can be downgraded, by reducing the number of tokens in the wallet to another wallet at the team&#39;s discretion.)&lt;br&gt;* BTC wrap, tied to BTC movement&lt;br&gt;* Not for Sale in the Market." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="175.5" y="469" width="220" height="143" as="geometry" />
         </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-8" value="&lt;div&gt;Ai generating NFT as Transaction Aprovment,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* start do bussiness.&lt;/div&gt;&lt;div&gt;* Digital Assets and tierd to Fisical item by NFT.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="391" y="523" width="330" height="80" as="geometry" />
