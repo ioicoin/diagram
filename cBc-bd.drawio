@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T14:15:31.497Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="AnHwzj6f9ENwi60g_rgv" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T14:19:18.943Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="k3yM-OPayrJhaZCM9EWd" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="993" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#051EFF;strokeColor=#3700CC;fontColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="350" y="207" width="48" height="193" as="geometry" />
+        </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="150" y="370" width="49" height="83" as="geometry" />
         </mxCell>
@@ -109,8 +112,8 @@
         <mxCell id="mvALGWr-T-3bCyHva3as-3" value="&lt;div&gt;iOi.coin - stabile coin, by Ai wallet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* in &amp;amp; out&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* spot - swap - to iOi.coin&lt;/div&gt;&lt;div&gt;* exept stbile coin, USDT, BUSD, USDC&lt;/div&gt;&lt;div&gt;* Btc and coinstock (cost)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="587" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#051EFF;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="350" y="207" width="48" height="193" as="geometry" />
+        <mxCell id="mvALGWr-T-3bCyHva3as-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#00CCCC;strokeColor=#3700CC;fontColor=#ffffff;opacity=60;" parent="1" vertex="1">
+          <mxGeometry x="350" y="370" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-5" value="ioi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="354" y="184" width="40" height="30" as="geometry" />
