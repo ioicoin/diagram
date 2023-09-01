@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T14:34:29.887Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="CUxOwtlpnMf5nh3VjDwe" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T14:35:36.319Z" agent="Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 DuckDuckGo/5 Safari/537.36" etag="woR6t1pBRfuHBcpnk1tE" version="21.7.1" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
-    <mxGraphModel dx="568" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,9 +206,6 @@
             <mxPoint x="558" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-23" value="Tred base on Digital Billioum Meter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBorderColor=none;fontSize=7;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="277" y="380" width="211" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF99CC;strokeColor=#3333FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="33" y="207" as="sourcePoint" />
@@ -263,7 +260,7 @@
             <mxPoint x="500" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-38" value="Tred base on Digital Billioum Meter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBorderColor=none;fontSize=7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-38" value="Tred base on Digital Billioum Meter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF66FF;labelBorderColor=none;fontSize=7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="496" y="380" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-39" value="ensure your product price today for the future.." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
