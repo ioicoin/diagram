@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T13:18:09.319Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vH_OfQT51Zs6XYK8vSQK" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T13:22:11.843Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oFQKkJi0HKODkuZUGb2g" version="21.7.5" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="1232" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -358,6 +358,15 @@
         </mxCell>
         <mxCell id="_dv-QBGdQmNSbUbkehUJ-9" value="let&#39;s Try test Net" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="727" y="746" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-10" value="basic - formula, -&amp;nbsp;USD to gold relationship" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="726" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610.0000000000002" y="710" as="sourcePoint" />
+            <mxPoint x="610.0000000000002" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
