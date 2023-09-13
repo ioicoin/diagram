@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T13:23:00.303Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hrXlHC0LZU9bSUw02T3i" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T13:30:18.238Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="osy3qz1foI3aS2ehbqVk" version="21.7.5" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="1232" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -367,6 +367,18 @@
             <mxPoint x="610.0000000000002" y="710" as="sourcePoint" />
             <mxPoint x="610.0000000000002" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-13" value="stabilize your business with cBc NFTs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="379" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart;fontSize=16;fontColor=none;noLabel=1;fillColor=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="419" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-15" value="stabile Market" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="985" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-16" value="...Future &amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Courier New;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="393.5" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
