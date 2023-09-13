@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T13:30:18.238Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="osy3qz1foI3aS2ehbqVk" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T13:40:00.294Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZRKmeMTsQ-xrBMNDhQ53" version="21.7.5" type="github">
   <diagram name="Page-1" id="EVfbMgRgJgo2VkLLqiw9">
     <mxGraphModel dx="1232" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -106,8 +106,8 @@
         <mxCell id="mvALGWr-T-3bCyHva3as-1" value="* BitCoin Market Capital" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="530" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-2" value="&lt;div&gt;* coinstock.cost,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as stock available in market.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Digital Silver n EchoSytem.&lt;/div&gt;&lt;div&gt;* sale and buy in Binance Market.&lt;/div&gt;&lt;div&gt;* ioi suport.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="123" y="601" width="200" height="90" as="geometry" />
+        <mxCell id="mvALGWr-T-3bCyHva3as-2" value="&lt;div&gt;* coinstock.cost,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;as stock available in market.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Digital Silver n EchoSytem.&lt;/div&gt;&lt;div&gt;* sale and buy in Binance Market.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="123" y="611" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mvALGWr-T-3bCyHva3as-3" value="&lt;div&gt;iOi.coin - stabile coin, by Ai wallet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* in &amp;amp; out&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* spot - swap - to iOi.coin&lt;/div&gt;&lt;div&gt;* exept stbile coin, USDT, BUSD, USDC&lt;/div&gt;&lt;div&gt;* Btc and coinstock (cost)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="587" width="320" height="150" as="geometry" />
@@ -152,9 +152,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mvALGWr-T-3bCyHva3as-15" value="&lt;div&gt;* NFT trade Market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Trade NFT Fisickly and Digital Asset by Ai Aprovment.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="558" y="274" width="247" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-1" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="400" width="60" height="30" as="geometry" />
         </mxCell>
@@ -191,8 +188,8 @@
         <mxCell id="bpX-akEFkFAYFT1dOsdR-13" value="cBc-BigDraw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry width="140" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-17" value="Stibilize your contract , stemp , Price, digital non digital asset, to day save&amp;nbsp; for tomorrow&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="511" y="193" width="211.5" height="136" as="geometry" />
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-17" value="*&amp;nbsp;Stabilize your business, stamps, pricing, digital assets and physical goods that you will market, today for tomorrow..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="511" y="198" width="211.5" height="136" as="geometry" />
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-21" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF00FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -212,10 +209,10 @@
             <mxPoint x="752" y="240.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpX-akEFkFAYFT1dOsdR-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF99CC;strokeColor=#990099;entryX=-1.004;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="mvALGWr-T-3bCyHva3as-15" edge="1">
+        <mxCell id="bpX-akEFkFAYFT1dOsdR-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF99CC;strokeColor=#990099;entryX=-1.004;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="41" y="370" as="sourcePoint" />
-            <mxPoint x="761" y="370" as="targetPoint" />
+            <mxPoint x="355.01200000000017" y="371.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bpX-akEFkFAYFT1dOsdR-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF99CC;strokeColor=#FFFF00;entryX=-1.004;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -379,6 +376,12 @@
         </mxCell>
         <mxCell id="_dv-QBGdQmNSbUbkehUJ-16" value="...Future &amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Courier New;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="660.5" y="393.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-17" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_dv-QBGdQmNSbUbkehUJ-18" value="Your money is in your wallet." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="516" y="298" width="215" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
